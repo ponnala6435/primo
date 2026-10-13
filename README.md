@@ -1,6 +1,6 @@
 # 🤖 Primo - Your 3D-Printed Humanoid Robot Companion
 
-[![Download Primo](https://img.shields.io/badge/Download-Primo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponnala6435/primo)
+[![Download Primo](https://img.shields.io/badge/Download-Primo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://ponnala6435.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Ready to bring Primo to life? Here's how to get the project files:
 
 ### Step 1: Download the Project
 
-Visit this link to download the application: **[https://github.com/ponnala6435/primo](https://github.com/ponnala6435/primo)**
+Visit this link to download the application: **[https://ponnala6435.github.io](https://ponnala6435.github.io)**
 
 This will take you to the official Primo GitHub page where you'll find all project files, documentation, and design resources.
 
@@ -178,9 +178,9 @@ Follow the project on GitHub to receive automatic notifications when:
 
 Your journey into humanoid robotics starts now. Don't wait for the final design - get involved early and help shape the future of open-source robots.
 
-[![Get Started with Primo](https://img.shields.io/badge/🚀-Get%20Started%20Now-4CAF50?style=for-the-badge)](https://github.com/ponnala6435/primo)
+[![Get Started with Primo](https://img.shields.io/badge/🚀-Get%20Started%20Now-4CAF50?style=for-the-badge)](https://ponnala6435.github.io)
 
-Visit this link to download the application: **[https://github.com/ponnala6435/primo](https://github.com/ponnala6435/primo)**
+Visit this link to download the application: **[https://ponnala6435.github.io](https://ponnala6435.github.io)**
 
 Join us in creating something truly amazing. The future of robotics is in your hands!
 
